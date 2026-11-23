@@ -2,11 +2,8 @@
 
 A simple Flutter task manager where you can add, edit, delete, and mark tasks as completed. Tasks are saved locally, so they stay after you close the app.
 
-## Screenshots
-
-| Task List | Add Task | Edit (swipe) | Delete (swipe) |
-|-----------|----------|--------------|----------------|
-| ![List](docs/screenshots/list.png) | ![Add](docs/screenshots/add.png) | ![Edit](docs/screenshots/edit.png) | ![Delete](docs/screenshots/delete.png) |
+Screenshots
+<table> <tr> <td align="center"><b>Task List</b></td> <td align="center"><b>Add Task</b></td> <td align="center"><b>Edit (swipe right)</b></td> </tr> <tr> <td><img src="doc/shotscreens/photo_2026-03-03_13-46-17.jpg" width="220"></td> <td><img src="doc/shotscreens/photo_2026-03-03_13-46-41.jpg" width="220"></td> <td><img src="doc/shotscreens/photo_2026-03-03_13-47-06.jpg" width="220"></td> </tr> <tr> <td align="center"><b>Delete (swipe left)</b></td> <td align="center"><b>Delete confirmation</b></td> <td></td> </tr> <tr> <td><img src="doc/shotscreens/photo_2026-03-03_13-47-00.jpg" width="220"></td> <td><img src="doc/shotscreens/photo_2026-03-03_13-46-54.jpg" width="220"></td> <td></td> </tr> </table>
 
 ## Features
 
